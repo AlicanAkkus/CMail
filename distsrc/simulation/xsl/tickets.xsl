@@ -48,7 +48,6 @@
 				</table>
 			</body>
 		</html>
-		<xsl:for-each select="//tickets/ticket" />
 
 	</xsl:template>
 </xsl:stylesheet>
