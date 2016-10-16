@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tickets>
+	<ticket>
+		<name>Alican</name>
+		<surname>Akkus</surname>
+		<gender>male</gender>
+		<age>23</age>
+		<job>Computer Engineering</job>
+		<from>Europe</from>
+		<to>Turkey</to>
+	</ticket>
+	<ticket>
+		<name>Ahmet</name>
+		<surname>Ates</surname>
+		<gender>male</gender>
+		<age>23</age>
+		<job>Computer Engineering</job>
+		<from>Europe</from>
+		<to>Turkey</to>
+	</ticket>
+	<ticket>
+		<name>Mert</name>
+		<surname>Celtikoglu</surname>
+		<gender>male</gender>
+		<age>23</age>
+		<job>Computer Engineering</job>
+		<from>Europe</from>
+		<to>Turkey</to>
+	</ticket>
+</tickets>
